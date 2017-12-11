@@ -1,0 +1,26 @@
+{
+  "name": "react-ssr",
+  "version": "1.0.0",
+  "description": "react-ssr",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.5"
+  },
+  "scripts": {
+    "dev": "nodemon ./server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a13821190779/react-ssr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a13821190779/react-ssr/issues"
+  },
+  "homepage": "https://github.com/a13821190779/react-ssr#readme"
+}
